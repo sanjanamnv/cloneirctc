@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="te" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="nav.brand" datatype="html">
+        <source>RailYatra</source>
+        <target>రైల్ యాత్ర</target>
+      </trans-unit>
+      <trans-unit id="nav.home" datatype="html">
+        <source>Home</source>
+        <target>హోమ్</target>
+      </trans-unit>
+      <trans-unit id="nav.trainSearch" datatype="html">
+        <source>Train Search</source>
+        <target>రైలు శోధన</target>
+      </trans-unit>
+      <trans-unit id="nav.pnrStatus" datatype="html">
+        <source>PNR Status</source>
+        <target>PNR స్థితి</target>
+      </trans-unit>
+      <trans-unit id="nav.myBookings" datatype="html">
+        <source>My Bookings</source>
+        <target>నా బుకింగ్‌లు</target>
+      </trans-unit>
+      <trans-unit id="nav.login" datatype="html">
+        <source>Login</source>
+        <target>లాగిన్</target>
+      </trans-unit>
+      <trans-unit id="nav.register" datatype="html">
+        <source>Register</source>
+        <target>నమోదు</target>
+      </trans-unit>
+      <trans-unit id="nav.logout" datatype="html">
+        <source>Logout</source>
+        <target>లాగౌట్</target>
+      </trans-unit>
+      <trans-unit id="hero.heading" datatype="html">
+        <source>Your Journey Begins Here</source>
+        <target>మీ ప్రయాణం ఇక్కడే ప్రారంభమవుతుంది</target>
+      </trans-unit>
+      <trans-unit id="hero.description" datatype="html">
+        <source>Book train tickets across India with real-time seat availability and instant PNR tracking.</source>
+        <target>నిజ-సమయ సీట్ల లభ్యత మరియు తక్షణ PNR ట్రాకింగ్‌తో భారతదేశమంతటా రైలు టిక్కెట్లను బుక్ చేసుకోండి.</target>
+      </trans-unit>
+      <trans-unit id="hero.bookBtn" datatype="html">
+        <source>Book Your Journey</source>
+        <target>మీ ప్రయాణాన్ని బుక్ చేసుకోండి</target>
+      </trans-unit>
+      <trans-unit id="search.fromStation" datatype="html">
+        <source>From Station</source>
+        <target>ప్రారంభ స్టేషన్</target>
+      </trans-unit>
+      <trans-unit id="search.toStation" datatype="html">
+        <source>To Station</source>
+        <target>గమ్యస్థాన స్టేషన్</target>
+      </trans-unit>
+      <trans-unit id="search.journeyDate" datatype="html">
+        <source>Journey Date</source>
+        <target>ప్రయాణ తేదీ</target>
+      </trans-unit>
+      <trans-unit id="search.submit" datatype="html">
+        <source>Search Trains</source>
+        <target>రైళ్లను శోధించండి</target>
+      </trans-unit>
+      <trans-unit id="pnr.heading" datatype="html">
+        <source>Check Your PNR Status</source>
+        <target>మీ PNR స్థితిని తనిఖీ చేయండి</target>
+      </trans-unit>
+      <trans-unit id="pnr.checkBtn" datatype="html">
+        <source>Check Status</source>
+        <target>స్థితిని తనిఖీ చేయండి</target>
+      </trans-unit>
+      <trans-unit id="booking.confirmTitle" datatype="html">
+        <source>Booking Confirmed Successfully!</source>
+        <target>బుకింగ్ విజయవంతంగా ధృవీకరించబడింది!</target>
+      </trans-unit>
+      <trans-unit id="booking.totalFare" datatype="html">
+        <source>Total Fare</source>
+        <target>మొత్తం ఛార్జీ</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

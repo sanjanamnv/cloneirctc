@@ -1,0 +1,6 @@
+{
+  "name": "RailYatra - Indian Railway Reservation Portal (IRCTC Clone)",
+  "description": "IRCTC-inspired railway reservation portal with train search, live availability, PNR tracking, multi-passenger booking, e-ticket generation, cancellation, and multilingual i18n/l10n support (English, Telugu, Hindi).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

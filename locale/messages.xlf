@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="nav.brand" datatype="html">
+        <source>RailYatra</source>
+      </trans-unit>
+      <trans-unit id="nav.home" datatype="html">
+        <source>Home</source>
+      </trans-unit>
+      <trans-unit id="nav.trainSearch" datatype="html">
+        <source>Train Search</source>
+      </trans-unit>
+      <trans-unit id="nav.pnrStatus" datatype="html">
+        <source>PNR Status</source>
+      </trans-unit>
+      <trans-unit id="nav.myBookings" datatype="html">
+        <source>My Bookings</source>
+      </trans-unit>
+      <trans-unit id="nav.login" datatype="html">
+        <source>Login</source>
+      </trans-unit>
+      <trans-unit id="nav.register" datatype="html">
+        <source>Register</source>
+      </trans-unit>
+      <trans-unit id="nav.logout" datatype="html">
+        <source>Logout</source>
+      </trans-unit>
+      <trans-unit id="hero.heading" datatype="html">
+        <source>Your Journey Begins Here</source>
+      </trans-unit>
+      <trans-unit id="hero.description" datatype="html">
+        <source>Book train tickets across India with real-time seat availability and instant PNR tracking.</source>
+      </trans-unit>
+      <trans-unit id="hero.bookBtn" datatype="html">
+        <source>Book Your Journey</source>
+      </trans-unit>
+      <trans-unit id="search.fromStation" datatype="html">
+        <source>From Station</source>
+      </trans-unit>
+      <trans-unit id="search.toStation" datatype="html">
+        <source>To Station</source>
+      </trans-unit>
+      <trans-unit id="search.journeyDate" datatype="html">
+        <source>Journey Date</source>
+      </trans-unit>
+      <trans-unit id="search.submit" datatype="html">
+        <source>Search Trains</source>
+      </trans-unit>
+      <trans-unit id="pnr.heading" datatype="html">
+        <source>Check Your PNR Status</source>
+      </trans-unit>
+      <trans-unit id="pnr.checkBtn" datatype="html">
+        <source>Check Status</source>
+      </trans-unit>
+      <trans-unit id="booking.confirmTitle" datatype="html">
+        <source>Booking Confirmed Successfully!</source>
+      </trans-unit>
+      <trans-unit id="booking.totalFare" datatype="html">
+        <source>Total Fare</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
